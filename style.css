@@ -65,3 +65,27 @@ button:hover {
   transform: scale(1.05);
   transition: 0.3s;
 }
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.avatar {
+  width: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+.card {
+  background: #1e293b;
+  margin: 20px auto;
+  padding: 15px;
+  width: 300px;
+  border-radius: 10px;
+}
